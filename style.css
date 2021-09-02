@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    text-align: center;
+ }
+ #ranger1{
+     display: none;
+ }
+ #ranger2{
+     display: none;
+ }
+ #ranger3{
+     display: none;
+ }
+ #ranger4{
+     display: none;
+ }
+ #power{
+     display: none;
+ }
